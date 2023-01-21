@@ -23,9 +23,6 @@ FRONT END
 HTML5
 CSS3
 Javascript
-jQuery
-Ajax
-Bootstrap
 Admin LTE Template
 
 Backend
